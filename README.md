@@ -15,7 +15,7 @@ pip install tqdm alive_progress
 ### Usage
 - Run the script using the command:
 ```
-python download_progress_bar.py
+python example.py
 ```
 - Choose an option from the menu:
 - Start Downloading: This option will start the download and display a progress bar for each file.
