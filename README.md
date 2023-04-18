@@ -26,5 +26,5 @@ python download_progress_bar.py
 - You can customize the delay for each file download by modifying the  wait_time variable in the script.
 - You can customize the list of slow files by modifying the slow_list variable in the script.
 ### Credits
-tqdm: https://github.com/tqdm/tqdm
-alive_progress: https://github.com/rsalmei/alive-progress
+- tqdm: https://github.com/tqdm/tqdm
+- alive_progress: https://github.com/rsalmei/alive-progress
