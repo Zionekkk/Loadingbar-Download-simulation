@@ -1,5 +1,5 @@
 # Loadingbar-Download-simulation
-##Download Progress Bar using tqdm
+## Download Progress Bar using tqdm
 This is a simple Python script that demonstrates the use of tqdm to create a progress bar for a download. The script also simulates a download by using a list of files and adding a delay to each file download.
 
 ### Requirements
