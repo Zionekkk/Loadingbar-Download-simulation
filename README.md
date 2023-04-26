@@ -3,7 +3,7 @@
 This is a simple Python script that demonstrates the use of tqdm to create a progress bar for a download. The script also simulates a download by using a list of files and adding a delay to each file download.
 
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/Zionekkk/Loadingbar-Download-simulation?color=6d00c1&label-style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/Zionekkk/Loadingbar-Download-simulation?label-style=flat-square" </a>
 </p>
 
 
